@@ -13,4 +13,3 @@ Run these commands:
 
 `node app.js`
 
-# Now it's done
